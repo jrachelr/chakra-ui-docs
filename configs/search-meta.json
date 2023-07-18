@@ -48861,6 +48861,13 @@
     "hierarchy": {}
   },
   {
+    "content": "Theming",
+    "id": "//docs/components/highlight/theming",
+    "type": "lvl2",
+    "url": "/docs/components/highlight/theming#theming",
+    "hierarchy": { "lvl2": "Theming", "lvl3": null }
+  },
+  {
     "content": "Highlight",
     "id": "//docs/components/highlight/usage",
     "type": "lvl1",
